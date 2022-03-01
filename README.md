@@ -6,24 +6,19 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
+  <img align="center" alt="emmanuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="emmanuel-django" height="30" width="105" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img align="center" alt="emmanuel-photoshop" height="30" width="115" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="emmanuel-ilustrator" height="30" width="115" src="https://aleen42.github.io/badges/src/illustrator.svg">
+ </div>
    
  ## 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
- ## 
+  
  
+ ## 
+
   <div> 
  	<a href="https://www.twitch.tv/emmanuel200121" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     	<a href="https://steamcommunity.com/profiles/76561198301897768/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-    
+    <a href="https://open.spotify.com/user/i4ffmh158c9i14z19ooa9j81b?si=8e9e9d8bbe074af1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   </div>
